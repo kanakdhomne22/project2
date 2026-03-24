@@ -1,3 +1,3 @@
 # New Project
 This project was created from local system
-created by kanak dhomne
+created by kanak dhomne.
